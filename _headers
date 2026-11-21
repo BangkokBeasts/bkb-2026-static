@@ -15,9 +15,6 @@
 /con-op/*
   Cache-Control: public, max-age=604800
 
-/memories/*
-  Cache-Control: public, max-age=604800
-
 /banner/*
   Cache-Control: public, max-age=604800
 
