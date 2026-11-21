@@ -1,0 +1,25 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/_app/immutable/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/gallery/*
+  Cache-Control: public, max-age=604800
+
+/dealers/*
+  Cache-Control: public, max-age=604800
+
+/con-op/*
+  Cache-Control: public, max-age=604800
+
+/memories/*
+  Cache-Control: public, max-age=604800
+
+/banner/*
+  Cache-Control: public, max-age=604800
+
+/assets/*
+  Cache-Control: public, max-age=604800

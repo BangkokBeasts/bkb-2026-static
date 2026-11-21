@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200">
+  <rect width="900" height="1200" fill="#181615"/>
+  <rect x="24" y="24" width="852" height="1152" fill="none" stroke="#d4942a" stroke-opacity="0.28" stroke-width="2"/>
+  <line x1="24" y1="24" x2="876" y2="1176" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1.5"/>
+  <line x1="876" y1="24" x2="24" y2="1176" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1.5"/>
+  <circle cx="450" cy="600" r="72" fill="#221f1d" stroke="#d4942a" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="450" y="592" text-anchor="middle" fill="#d4942a" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="3">MEMORY 08</text>
+  <text x="450" y="622" text-anchor="middle" fill="#a8a29e" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" letter-spacing="2">PLACEHOLDER · 3:4</text>
+  <text x="48" y="1152" fill="#e7e5e4" fill-opacity="0.7" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">DAY 2 · MAIN STAGE</text>
+  <text x="852" y="1152" text-anchor="end" fill="#a8a29e" font-family="monospace" font-size="14">900x1200</text>
+</svg>

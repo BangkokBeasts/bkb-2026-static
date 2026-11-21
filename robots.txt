@@ -1,0 +1,10 @@
+# allow crawling everything by default
+User-agent: *
+Disallow:
+
+# Keep private authenticated areas out of search indexes
+Disallow: /auth/
+Disallow: /dashboard/
+Disallow: /profile/
+
+Sitemap: https://alpha.bangkokbeasts.com/sitemap.xml
